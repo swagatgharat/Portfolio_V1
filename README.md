@@ -1,16 +1,39 @@
-# React + Vite
+# 🌐 Portfolio_V1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **A modern, responsive personal portfolio built with React & Vite to showcase projects, skills, and professional achievements.**
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📖 Overview
 
-## Expanding the ESLint configuration
+**Portfolio_V1** is a sleek, high-performance web application designed to present your professional profile, technical expertise, and creative projects.  
+Built using **React + Vite**, it emphasizes clean UI/UX, smooth animations, and optimized performance for all devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project serves as **Version 1** of my personal portfolio and acts as a foundation for future improvements.
+
+---
+
+## ✨ Key Features
+
+- 🚀 **Fast & Optimized** — Powered by Vite for blazing-fast development and builds  
+- 📱 **Fully Responsive** — Works seamlessly across desktop, tablet, and mobile  
+- 🎨 **Modern UI Design** — Elegant layout and styling with Tailwind CSS  
+- 🧩 **Modular Components** — Easy to update and scale for future growth  
+- ⚙️ **Custom Data Management** — Centralized assets and project data in `assets.js`  
+- 💬 **Contact Section** — Integrated form for professional inquiries (via Web3Forms or Email)  
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend Framework** | React.js |
+| **Build Tool** | Vite |
+| **Styling** | Tailwind CSS |
+| **Deployment** | Vercel |
+| **Data Handling** | JavaScript Modules |
+| **Version Control** | Git & GitHub |
+
