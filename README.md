@@ -15,12 +15,12 @@ This project serves as **Version 1** of my personal portfolio and acts as a foun
 
 ## ✨ Key Features
 
-- 🚀 **Fast & Optimized** — Powered by Vite for blazing-fast development and builds  
-- 📱 **Fully Responsive** — Works seamlessly across desktop, tablet, and mobile  
-- 🎨 **Modern UI Design** — Elegant layout and styling with Tailwind CSS  
-- 🧩 **Modular Components** — Easy to update and scale for future growth  
-- ⚙️ **Custom Data Management** — Centralized assets and project data in `assets.js`  
-- 💬 **Contact Section** — Integrated form for professional inquiries (via Web3Forms or Email)  
+- 🚀 **Fast & Optimized** - Powered by Vite for blazing-fast development and builds  
+- 📱 **Fully Responsive** - Works seamlessly across desktop, tablet, and mobile  
+- 🎨 **Modern UI Design** - Elegant layout and styling with Tailwind CSS  
+- 🧩 **Modular Components** - Easy to update and scale for future growth  
+- ⚙️ **Custom Data Management** - Centralized assets and project data in `assets.js`  
+- 💬 **Contact Section** - Integrated form for professional inquiries (via Web3Forms or Email)  
 
 ---
 
